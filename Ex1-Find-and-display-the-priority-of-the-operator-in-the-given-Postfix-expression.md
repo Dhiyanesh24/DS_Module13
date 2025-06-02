@@ -15,11 +15,11 @@ To write a C program to find and display the priority of the operator in the giv
  ``` 
 
 ## Program:
-```
+```c
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: OVIYA P
-RegisterNumber:  212223110033
+Developed by: Dhiyaneshwar
+RegisterNumber:  212222110009
 */
 #include <stdio.h>
 #include<string.h>
